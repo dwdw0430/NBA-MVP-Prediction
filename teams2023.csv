@@ -1,0 +1,36 @@
+,W,L,W/L%,GB,PS/G,PA/G,SRS,Year,Team
+0,57,25,.695,—,117.9,111.4,6.38,2023,Boston Celtics* (2)
+1,54,28,.659,3.0,115.2,110.9,4.37,2023,Philadelphia 76ers* (3)
+2,47,35,.573,10.0,116.0,113.1,2.99,2023,New York Knicks* (5)
+3,45,37,.549,12.0,113.4,112.5,1.03,2023,Brooklyn Nets* (6)
+4,41,41,.500,16.0,112.9,111.4,1.59,2023,Toronto Raptors* (9)
+5,Central Division,Central Division,Central Division,Central Division,Central Division,Central Division,Central Division,2023,Central Division
+6,58,24,.707,—,116.9,113.3,3.61,2023,Milwaukee Bucks* (1)
+7,51,31,.622,7.0,112.3,106.9,5.23,2023,Cleveland Cavaliers* (4)
+8,40,42,.488,18.0,113.1,111.8,1.37,2023,Chicago Bulls* (10)
+9,35,47,.427,23.0,116.3,119.5,-2.91,2023,Indiana Pacers (11)
+10,17,65,.207,41.0,110.3,118.5,-7.73,2023,Detroit Pistons (15)
+11,Southeast Division,Southeast Division,Southeast Division,Southeast Division,Southeast Division,Southeast Division,Southeast Division,2023,Southeast Division
+12,44,38,.537,—,109.5,109.8,-0.13,2023,Miami Heat* (7)
+13,41,41,.500,3.0,118.4,118.1,0.32,2023,Atlanta Hawks* (8)
+14,35,47,.427,9.0,113.2,114.4,-1.06,2023,Washington Wizards (12)
+15,34,48,.415,10.0,111.4,114.0,-2.39,2023,Orlando Magic (13)
+16,27,55,.329,17.0,111.0,117.2,-5.89,2023,Charlotte Hornets (14)
+0,Northwest Division,Northwest Division,Northwest Division,Northwest Division,Northwest Division,Northwest Division,Northwest Division,2023,Northwest Division
+1,53,29,.646,—,115.8,112.5,3.04,2023,Denver Nuggets* (1)
+2,42,40,.512,11.0,115.8,115.8,-0.22,2023,Minnesota Timberwolves* (8)
+3,40,42,.488,13.0,117.5,116.4,0.96,2023,Oklahoma City Thunder* (10)
+4,37,45,.451,16.0,117.1,118.0,-1.03,2023,Utah Jazz (12)
+5,33,49,.402,20.0,113.4,117.4,-3.96,2023,Portland Trail Blazers (13)
+6,Pacific Division,Pacific Division,Pacific Division,Pacific Division,Pacific Division,Pacific Division,Pacific Division,2023,Pacific Division
+7,48,34,.585,—,120.7,118.1,2.30,2023,Sacramento Kings* (3)
+8,45,37,.549,3.0,113.6,111.6,2.08,2023,Phoenix Suns* (4)
+9,44,38,.537,4.0,113.6,113.1,0.31,2023,Los Angeles Clippers* (5)
+10,44,38,.537,4.0,118.9,117.1,1.66,2023,Golden State Warriors* (6)
+11,43,39,.524,5.0,117.2,116.6,0.43,2023,Los Angeles Lakers* (7)
+12,Southwest Division,Southwest Division,Southwest Division,Southwest Division,Southwest Division,Southwest Division,Southwest Division,2023,Southwest Division
+13,51,31,.622,—,116.9,113.0,3.60,2023,Memphis Grizzlies* (2)
+14,42,40,.512,9.0,114.4,112.5,1.63,2023,New Orleans Pelicans* (9)
+15,38,44,.463,13.0,114.2,114.1,-0.14,2023,Dallas Mavericks (11)
+16,22,60,.268,29.0,110.7,118.6,-7.62,2023,Houston Rockets (14)
+17,22,60,.268,29.0,113.0,123.1,-9.82,2023,San Antonio Spurs (15)
